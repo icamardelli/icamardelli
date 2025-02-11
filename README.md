@@ -10,13 +10,19 @@ Minha paixão está na **automação de processos**, **otimização de recursos*
 
 - 📊 **Excel** (Macros, Tabelas Dinâmicas, VBA)  
 - ⚡ **Power BI** (Power Query, DAX)  
-- 🐍 **Python** para Análise de Dados (Pandas, NumPy)  
-- 🛢️ **SQL** para Consulta e Manipulação de Dados  
+- 🐍 **Python** para Tratamento, Exploração e Limpeza de Dados (Pandas, NumPy)  
+- 🛢️ **SQL** para Consultas e Manipulação de Dados
 - 🏭 **Gestão de Manutenção e Qualidade**  
 - 💰 **Análise Financeira e Controle de Custos**  
 - 📈 **Elaboração de Dashboards e Relatórios Gerenciais**  
 
 ---  
+
+### 📖 **Estudos**  
+
+- 🤖 **Machine Learning** █░░░░░░░░░ 10%
+
+---
 
 ### 🌍 **Idiomas**  
 
