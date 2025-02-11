@@ -1,7 +1,3 @@
-Aqui está um **README.md** para o seu GitHub, destacando suas habilidades com emojis para torná-lo mais visual e atrativo:  
-
----
-
 ### 🚀 Hello, World!
 
 Olá! 👋 Sou um profissional com formação em **Mecatrônica** e **Engenharia de Controle e Automação**, além de uma **pós-graduação em Business Intelligence & Analytics**.  
