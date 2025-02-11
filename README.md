@@ -32,3 +32,5 @@ Minha paixão está na **automação de processos**, **otimização de recursos*
 🔗 LinkedIn: [Italo Camardelli Santos](https://www.linkedin.com/in/italocamardelli)
 
 🚀 **Sempre em busca de novos desafios e aprendizados na área de dados!**  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icamardelli&show_icons=true&theme=shadow_red)
