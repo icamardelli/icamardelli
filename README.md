@@ -33,4 +33,4 @@ Minha paixão está na **automação de processos**, **otimização de recursos*
 
 🚀 **Sempre em busca de novos desafios e aprendizados na área de dados!**  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icamardelli&show_icons=true&theme=shadow_red)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icamardelli&show_icons=true&theme=chartreuse-dark)
