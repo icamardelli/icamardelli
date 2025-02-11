@@ -1,42 +1,48 @@
-### 🚀 Hello, World!
+### **Hello! 👋**  
 
-Olá! 👋 Sou um profissional com formação em **Mecatrônica** e **Engenharia de Controle e Automação**, além de uma **pós-graduação em Business Intelligence & Analytics**.  
+I am a professional with a background in **Mechatronics and Control & Automation Engineering**, along with a **postgraduate degree in Business Intelligence & Analytics**.  
 
-Minha paixão está na **automação de processos**, **otimização de recursos**, **análise e exploração de dados** e **machine learning**, sempre com foco em ajudar empresas a **tomar decisões estratégicas**. 💡📊  
+My passion lies in **process automation, resource optimization, data analysis & exploration, and machine learning**, always focusing on helping businesses make **strategic decisions**. 💡📊  
 
 ---  
 
-### 🛠️ **Habilidades Técnicas**  
+### 🛠️ **Technical Skills**  
 
-- 📊 **Excel** (Macros, Tabelas Dinâmicas, VBA)  
+- 📊 **Excel** (Macros, Pivot Tables, VBA)  
 - ⚡ **Power BI** (Power Query, DAX)  
-- 🐍 **Python** para Tratamento, Exploração e Limpeza de Dados (Pandas, NumPy)  
-- 🛢️ **SQL** para Consultas e Manipulação de Dados
-- 🏭 **Gestão de Manutenção e Qualidade**  
-- 💰 **Análise Financeira e Controle de Custos**  
-- 📈 **Elaboração de Dashboards e Relatórios Gerenciais**  
+- 🐍 **Python** for Data Processing, Exploration & Cleaning (Pandas, NumPy)  
+- 🛢️ **SQL** for Queries and Data Manipulation
+- 📈 **Data Visualization** (Matplotlib, Seaborn, Plotly)  
+- 🎯 **KPIs**  
+- ⏳ **Planning**  
 
 ---  
 
-### 📖 **Estudos**  
+### 📖 **Study Plan**  
 
-- 🤖 **Machine Learning** █░░░░░░░░░ 10%
+- 🐍 **Enhancing Python skills** █████████░ **90%**  
+- 🔢 **Statistics with Python** ░░░░░░░░░░ **0%**  
+- 🤖 **Machine Learning** ░░░░░░░░░░ **0%**  
+
+---  
+
+### 🌍 **Languages**  
+
+- 🇺🇸 **English**: Advanced  
+- 🇮🇹 **Italian**: Intermediate  
+- 🇯🇵 **Japanese**: Basic  
+
+---  
+
+### 📫 **How to Reach Me?**  
+
+📧 **Email**: [italoc.santos@gmail.com](mailto:italoc.santos@gmail.com)   
+🔗 **LinkedIn**: [Italo Camardelli Santos](https://www.linkedin.com/in/italocamardelli)
+
+🚀 **Always looking for new challenges and learning opportunities in the data field!**  
 
 ---
 
-### 🌍 **Idiomas**  
-
-- 🇺🇸 **Inglês**: Avançado  
-- 🇮🇹 **Italiano**: Intermediário  
-- 🇯🇵 **Japonês**: Básico  
-
----  
-
-### 📫 **Como me encontrar?**  
-
-📧 Email: [italoc.santos@gmail.com](mailto:italoc.santos@gmail.com)  
-🔗 LinkedIn: [Italo Camardelli Santos](https://www.linkedin.com/in/italocamardelli)
-
-🚀 **Sempre em busca de novos desafios e aprendizados na área de dados!**  
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icamardelli&show_icons=true&theme=chartreuse-dark)
+
+
