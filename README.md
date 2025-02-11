@@ -20,8 +20,7 @@ My passion lies in **process automation, resource optimization, data analysis & 
 
 ### 📖 **Study Plan**  
 
-- 🐍 **Enhancing Python skills** █████████░ **90%**  
-- 🔢 **Statistics with Python** ░░░░░░░░░░ **0%**  
+- 🔢 **Statistics with Python** █░░░░░░░░░ **10%**  
 - 🤖 **Machine Learning** ░░░░░░░░░░ **0%**  
 
 ---  
