@@ -42,6 +42,6 @@ My passion lies in **process automation, resource optimization, data analysis & 
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icamardelli&show_icons=true&theme=chartreuse-dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icamardelli&layout=compact&langs_count=6&theme=radical)
 
 
